@@ -1,6 +1,5 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
-  modules: ['@nuxt/eslint', '@nuxt/hints', '@ant-design-vue/nuxt','@pinia/nuxt','@element-plus/nuxt'],
   compatibilityDate: '2025-07-15',
   devtools: { enabled: true }
 })
